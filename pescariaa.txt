@@ -1,0 +1,21 @@
+Loja de peixes do cliente
+Nome da loja?
+	R: Cassi pescas.
+Qual objetivo do sistema?
+	R: Desenvolver um site para vendas de itens para pescaria.	
+Qual tipo de interface você deseja(cores e detalhes)?
+	R: Detalhes em onda, com detalhe azul e branco. 
+Navegadores?
+	R: Todos navegadores, principal o chrome.
+Funconalidades
+	R: Catálogo de produtos, Cadastro de login dentro do site, Carrinho de compras, Processo de compra e um gerenciamento de compras para os clientes verem onde o produto esta durante a entrega, área de Feedback, Search para pesquisa e notificações quando produtos estão em promoção (notificação na tela)
+Desempenho 
+	R: Desempenho rápido.
+Produtos?
+	R: Varas de pescas, carretilhas, Linha de pescas, iscas, chapéu de pescador, roupa de pescador, barco para pesca, balde de iscas, kit de pescarias e brinquedo de pega peixe.
+Manutenção do sistema
+	R: Tenha manutenção do sistema, backup toda segunda-feira.
+Muitas pessoas possam entrar no site.
+
+Orçamento para o sistema 
+	R: R$5000,00 reais + R$200,00 para manutenção mensalmente.

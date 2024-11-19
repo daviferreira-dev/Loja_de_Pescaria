@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+a {
+    color: black;
+}
+
+body {
+    background-color: rgb(61, 130, 183);
+    background-size: 100%;
+    animation: 5s ease-in-out infinite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: lightgray;
+    padding-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.bloco-search {
+    display: flex;
+    margin-left: 0px;
+}
+
+.cassi {
+    display: flex;
+    height: 15px;
+    align-items: center;
+    margin-top: 45px;
+    margin-left: -80px;
+    font-size: 45px;
+    font-family: 'Bona Nova SC', sans-serif;
+}
+
+.cassi-pescas {
+    width: 300px;
+    height: 100px;
+}
+.cassi {
+    display: flex;
+    height: 15px;
+    align-items: center;
+    font-size: 45px;
+    font-family: 'Bona Nova SC', sans-serif;
+}
+
+.chave{
+    display: flex;
+    align-items: center;
+    width: 100px;
+    height: 100px;
+    
+}
+.voltar{
+    display: flex;
+    width: 97vw;
+    justify-content: flex-end;
+    font-family: 'popins', sans-serif;
+    font-size: 14px;
+}
+.voltar a:hover{
+    font-size: 18px;
+    border-bottom: 1.25px solid black;
+}
+
+.seguranca{
+    display: flex;
+    align-items: center;
+    margin-left:45rem;
+    font-family: 'poppins',sans-serif;
+}
+.secao{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+}
+.bloco-input{
+    display: grid;
+    grid-template-rows: 25px 30px 40px repeat(30px);
+    justify-content: center;
+    width: 25rem;
+    background-color: white;
+    height: 20rem;
+    border-radius: 10px;
+    padding-top: 20px;
+    margin-top: 100px;
+    font-size: 20px;
+}
+
+#input{
+    box-shadow: 4px 5px 0px 0px rgb(61, 130, 183);
+    border: 1px solid black;
+    height: 30px;
+    width: 15rem;
+    margin-left: 50px;
+}
+.esqueceram{
+    color:blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.btn{
+    width: 15rem;
+    height: 50px;
+    background-color:  rgb(61, 130, 183);
+    color: white;
+    cursor:-webkit-grab;
+    margin-left: 50px;
+    text-align: center;
+  
+}
